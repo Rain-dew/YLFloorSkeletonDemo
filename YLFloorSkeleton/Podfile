@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'YLFloorSkeleton' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for YLFloorSkeleton
+  pod 'Masonry' #约束
+  pod 'SDWebImage' #约束
+  pod 'YYKit' #约束
+
+end

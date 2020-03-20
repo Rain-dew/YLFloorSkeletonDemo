@@ -1,0 +1,18 @@
+//
+//  FSHeader.pch
+//  YLFloorSkeleton
+//
+//  Created by 张雨露 on 2020/1/8.
+//  Copyright © 2020 Raindew. All rights reserved.
+//
+#ifndef FSHeader_pch
+#define FSHeader_pch
+#import "FSContant.h"
+#import <YYKit/NSObject+YYModel.h>
+#import "Masonry.h"
+#import <SDWebImage/SDWebImage.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* FSHeader_pch */
